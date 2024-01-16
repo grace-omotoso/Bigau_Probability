@@ -5,7 +5,7 @@
 
 # Installation
 ```python
-pip install -i https://test.pypi.org/simple/ bigau-probability==3.4
+pip install bigau-probability==1.0
 ```
 
 ### Gaussian Distribution Methods
@@ -172,3 +172,6 @@ The print method displays the mean, standard deviation, probability and sample s
 ```python
 print(binomial)
 ```
+
+### Source Code
+https://github.com/grace-omotoso/Bigau_Probability
