@@ -5,7 +5,7 @@
 
 # Installation
 ```python
-pip install bigau-probability==1.0
+pip install bigau-probability
 ```
 
 ### Gaussian Distribution Methods
